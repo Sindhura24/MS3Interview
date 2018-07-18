@@ -1,0 +1,11 @@
+create table if not exists ms3data
+( A Varchar Not Null,  
+B Varchar Not Null, 
+ C Varchar Not Null, 
+ D Varchar Not Null,  
+E Varchar Not Null,  
+F Varchar Not Null,  
+G Varchar Not Null,  
+H Varchar Not Null,  
+I Varchar Not Null,  
+J Varchar Not Null);
